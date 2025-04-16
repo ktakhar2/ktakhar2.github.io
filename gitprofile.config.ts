@@ -31,7 +31,7 @@ const CONFIG = {
     external: {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
-      projects: [
+      projects: ["ktakhar2/sectionreport", "ktakhar2/microbiometutorial"],
         {
           title: 'Project Name',
           description:
