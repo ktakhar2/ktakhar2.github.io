@@ -69,8 +69,8 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
@@ -83,20 +83,10 @@ const CONFIG = {
       'https://github.com/ktakhar2/ktakhar2.github.io/raw/main/TakharCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'PCR',
+    'Bioinformatics',
+    'Microscopy',
+    'Isolating compounds',
   ],
   experiences: [
     {
@@ -124,18 +114,12 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'California State Universiy, Stanislaus',
+      degree: 'BS in Biological Sciences',
+      from: '2022',
+      to: '2026',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
-  ],
   publications: [
     {
       title: 'Publication Title',
