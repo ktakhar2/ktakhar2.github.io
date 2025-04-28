@@ -95,6 +95,7 @@ const CONFIG = {
       from: 'May 2023',
       to: 'Present',
       companyLink: '',
+    },
   ],
   certifications: [
     {
