@@ -37,16 +37,16 @@ const CONFIG = {
           description:
             '20 different species found at CSU Stanislaus',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/ktakhar2/ktakhar2.github.io/raw/main/Screenshot%202025-04-30%20091410.png',
+          link: 'https://github.com/ktakhar2/ktakhar2.github.io/raw/main/BIO%202%20Biosurvey.pptx',
         },
         {
           title: 'Hemophilia A Disease Paper',
           description:
             'Information on Hemophilia A',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/ktakhar2/ktakhar2.github.io/raw/main/Screenshot%202025-04-30%20091222.png',
+          link: 'https://github.com/ktakhar2/ktakhar2.github.io/raw/main/Disease%20Paper.docx',
         },
       ],
     },
